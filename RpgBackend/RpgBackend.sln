@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpgBackend", "RpgBackend\RpgBackend.csproj", "{D041F54F-6B13-4FE7-9CC1-8C0EE03313D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D041F54F-6B13-4FE7-9CC1-8C0EE03313D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D041F54F-6B13-4FE7-9CC1-8C0EE03313D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D041F54F-6B13-4FE7-9CC1-8C0EE03313D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D041F54F-6B13-4FE7-9CC1-8C0EE03313D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
